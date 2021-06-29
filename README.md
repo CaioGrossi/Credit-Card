@@ -1,7 +1,6 @@
 # Credit Card Component
 
-Componente de formulário para carão de crédito com funcinalidade de animação com CSS. Feito eclusivamente para estudar propriedades de animação com CSS (transform), 
-posicionamento e funcionalidade de 3D (como o "flip" do cartão).
+Componente de formulário para carão de crédito com funcinalidade de animação com CSS. Feito exclusivamente para estudar propriedades de animação do CSS (transform, transition),posicionamento e funcionalidade de 3D (como o "flip" do cartão).
 
 <p align="center">
   <img src="/demo/credit-card-component.gif" />
